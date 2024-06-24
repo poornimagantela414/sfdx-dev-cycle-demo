@@ -5,7 +5,17 @@
   "features": [],
   "settings": {
     "orgPreferenceSettings": {
-      "s1DesktopEnabled": true
-    }
+      "s1DesktopEnabled": true,
+      "sourceApiVersion": "48.0"
+    },
+    "mobileSettings": {
+            "enableS1EncryptedStoragePref2": true
+        },
+    "lightningExperienceSettings": {
+            "enableS1DesktopEnabled": true
+        },
+    "communitiesSettings": {
+            "enableNetworksEnabled": true
+        }
   }
 }
